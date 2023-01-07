@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-game/static/css/main.77e6f4f9.css",
+    "main.js": "/my-game/static/js/main.33485d18.js",
+    "static/js/787.8f54cbb0.chunk.js": "/my-game/static/js/787.8f54cbb0.chunk.js",
+    "static/media/JICXS.jpg": "/my-game/static/media/JICXS.798c4ab6aa9af4df0cac.jpg",
+    "index.html": "/my-game/index.html",
+    "main.77e6f4f9.css.map": "/my-game/static/css/main.77e6f4f9.css.map",
+    "main.33485d18.js.map": "/my-game/static/js/main.33485d18.js.map",
+    "787.8f54cbb0.chunk.js.map": "/my-game/static/js/787.8f54cbb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77e6f4f9.css",
+    "static/js/main.33485d18.js"
+  ]
+}
